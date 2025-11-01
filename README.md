@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi, I'm [Subbareddy Vundela](https://www.linkedin.com/in/cloudbyvenkat/) 👋
 
-<!--
-**CloudByVenkat/CloudByVenkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cloud Solutions Architect** | **Azure Certified Expert (AZ-104 & AZ-305)** | **Multi-Cloud & DevOps Leader Driving Cloud Innovation & Automation** | **Kubernetes · Terraform · Ansible** | **Mentor & Technical Leader**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Follow me
+<p>
+  <a href="https://www.linkedin.com/in/CloudByVenkat"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-CloudByVenkat-Blue" /></a>
+  <a href="https://www.youtube.com/@CloudByVenkat"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-CloudByVenkat-red" /></a>
+  <a href="https://medium.com/@CloudByVenkat"><img alt="Medium" src="https://img.shields.io/badge/Medium-CloudByVenkat-green" /></a>
+  <a href="https://x.com/CloudByVenkat"><img alt="X" src="https://img.shields.io/badge/Twitter-CloudByVenkat-purple" /></a>
+  <a href="https://hashnode.com/@CloudByVenkat"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-CloudByVenkat-white" /></a>
+  <a href="https://github.com/CloudByVenkat"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-CloudByVenkat-blue" /></a>
+</p>
+Results-driven architect with 15+ years of experience leading cloud transformation across Azure, AWS, and GCP. Passionate about building scalable systems, automating infrastructure, optimising cloud spend, and integrating AI into modern architectures.
+
+---
+
+## 👋 About Me / Let’s Connect
+
+- 🔭 Currently architecting and delivering cloud-native solutions on Azure 
+- 🌱 Expanding expertise in AI-driven platforms and generative AI technologies  
+- 👯 Open to collaborating on cloud architecture, AI integration, and DevOps projects  
+- 🤝 Happy to offer mentorship and share knowledge on cloud security, automation, and infrastructure as code  
+- 💬 Ask me about Azure, multi-cloud strategy, Terraform, Kubernetes, or AI-powered solutions  
+- 📫 Reach me: [Subbareddy Vundela](https://www.linkedin.com/in/cloudbyvenkat/)
+- 😄 Pronouns: He/Him
+
+---
+
+## Core Technologies
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,aws,gcp,terraform,ansible,azuredevops,kubernetes,docker,jenkins,githubactions,git,linux,bash,nginx,grafana,prometheus,elasticsearch,powershell,python&titles=true&perline=20" alt="Core Technologies"/>
+</p>
+
+---
+## Certifications & Badges
+<p align="center">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SubbareddyVundela-1253/763D803DEC5C3745?sharingId=3C049ED79FE071BA"><img alt="Microsoft Certified Expert" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="120" /></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SubbareddyVundela-1253/763D803DEC5C3745?sharingId=3C049ED79FE071BA"><img alt="Microsoft Certified Associate" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="120" /></a>
+
+</p>
+---
+
+## Achievements
+- Architected multi-cloud platforms with 99.99% availability.  
+- Reduced deployment effort by ~70% with GitOps and pipeline automation.  
+- Implemented FinOps controls saving >35% in cloud spend.  
+- Led cross-functional teams to deliver secure, compliant infrastructure at scale.
+
+---
+
+## Speaking & Webinars
+
+- 17 July 2025 - Disaster Recovery: A Hands-On Demo to Azure Site Recovery - [CareerByteCode](https://youtu.be/u8Q_HPDRak8)
+- 08 August 2025 - Build Secure Multi-Cloud Networks: Azure VNet Gateway Connections - [CareerByteCode](https://youtu.be/ttdeb0QkFL4)
+- 13 Sep 2025 - Kubernetes Monitoring using Prometheus - [CareerByteCode](https://youtu.be/lWZ1_dkRsAw)
+
+---
+
+## Mentorship & Community
+
+- [CareerByteCode](https://www.linkedin.com/company/careerbytecode) — Cloud Solutions Mentor (Freelancer) · Oct 2024 – Present  
+ Freelancer Cloud Solutions Architect mentoring early-career engineers in cloud architecture, infrastructure as code, and DevOps.
+
+  Key contributions:
+  - Led live workshops & demos.  
+  - Mentored engineers on Azure/AWS/GCP, Terraform, Ansible, and Kubernetes.  
+  - Created hands-on lab materials and sample repos for practical learning.  
+  - Advised on cloud cost optimisation, disaster recovery planning, and security best practices.
+
+  Technologies: Azure · AWS · GCP · Kubernetes · Docker · Terraform · Ansible · Jenkins · Storage Area Networking · Brocade & Cisco · observability & security tools.
+
+---
+
+## Let’s Collaborate
+
+I’m passionate about driving innovation in AI and cloud-native technologies. If you’re interested in exploring new ideas, building scalable solutions, or pushing the boundaries of what cloud and AI can achieve together, let’s connect and collaborate. Whether it’s open-source projects, technical workshops, or mentoring, I’m always eager to partner with like-minded professionals to create impactful results.
+
+---
