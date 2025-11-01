@@ -41,7 +41,6 @@ Results-driven architect with 15+ years of experience leading cloud transformati
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/SubbareddyVundela-1253/763D803DEC5C3745?sharingId=3C049ED79FE071BA"><img alt="Microsoft Certified Associate" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="120" /></a>
 
 </p>
----
 
 ## Achievements
 - Architected multi-cloud platforms with 99.99% availability.  
