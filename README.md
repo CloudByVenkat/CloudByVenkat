@@ -50,6 +50,19 @@ Results-driven architect with 15+ years of experience leading cloud transformati
 
 ---
 
+---
+
+## Stats
+<!-- Stats card by anuraghazra/github-readme-stats
+     Customization guide:
+     - Hide private contributions: &count_private=true|false
+     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
+     - Show icons: &show_icons=true
+     Docs: https://github.com/anuraghazra/github-readme-stats -->
+![CloudByVenkat' GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudbyvenkat&show_icons=true&theme=gruvbox)
+
+---
+
 ## Speaking & Webinars
 
 - 17 July 2025 - Disaster Recovery: A Hands-On Demo to Azure Site Recovery - [CareerByteCode](https://youtu.be/u8Q_HPDRak8)
