@@ -47,9 +47,6 @@ Results-driven architect with 15+ years of experience leading cloud transformati
 - Reduced deployment effort by ~70% with GitOps and pipeline automation.  
 - Implemented FinOps controls saving >35% in cloud spend.  
 - Led cross-functional teams to deliver secure, compliant infrastructure at scale.
-
----
-
 ---
 
 ## Stats
