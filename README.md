@@ -65,6 +65,9 @@ Results-driven architect with 15+ years of experience leading cloud transformati
 
 ## Speaking & Webinars
 
+<!-- BEGIN YOUTUBE-CARDS -->
+
+<!-- END YOUTUBE-CARDS -->
 - 17 July 2025 - Disaster Recovery: A Hands-On Demo to Azure Site Recovery - [CareerByteCode](https://youtu.be/u8Q_HPDRak8)
 - 08 August 2025 - Build Secure Multi-Cloud Networks: Azure VNet Gateway Connections - [CareerByteCode](https://youtu.be/ttdeb0QkFL4)
 - 13 Sep 2025 - Kubernetes Monitoring using Prometheus - [CareerByteCode](https://youtu.be/lWZ1_dkRsAw)
