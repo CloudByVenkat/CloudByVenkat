@@ -56,7 +56,7 @@ Results-driven architect with 15+ years of experience leading cloud transformati
      - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
      - Show icons: &show_icons=true
      Docs: https://github.com/anuraghazra/github-readme-stats -->
-![CloudByVenkat' GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudbyvenkat&show_icons=true&theme=gruvbox)
+![CloudByVenkat' GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudbyvenkat&show_icons=true&theme=gotham)
 
 ---
 
