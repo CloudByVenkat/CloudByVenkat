@@ -1,6 +1,7 @@
 # Hi, I'm [Subbareddy Vundela](https://www.linkedin.com/in/cloudbyvenkat/) 👋
+**`Cloud Solution Architect (Azure • Terraform • Kubernetes • Ansible • Azure Devops  • Storage SME)`**
 
-**Cloud Solutions Architect** | **Azure Certified Expert (AZ-104 & AZ-305)** | **Multi-Cloud & DevOps Leader Driving Cloud Innovation & Automation** | **Kubernetes · Terraform · Ansible** | **Mentor & Technical Leader**
+**Azure Certified Expert (AZ-104 & AZ-305)** | **Multi-Cloud & DevOps Leader Driving Cloud Innovation & Automation** | **Mentor & Technical Leader**
 
 ![image](https://github.com/CloudByVenkat/CloudByVenkat/blob/main/new.jpg?raw=true)
 ## Follow me
