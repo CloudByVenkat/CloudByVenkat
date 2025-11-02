@@ -2,7 +2,7 @@
 
 **Cloud Solutions Architect** | **Azure Certified Expert (AZ-104 & AZ-305)** | **Multi-Cloud & DevOps Leader Driving Cloud Innovation & Automation** | **Kubernetes · Terraform · Ansible** | **Mentor & Technical Leader**
 
-
+![image](https://github.com/CloudByVenkat/CloudByVenkat/blob/main/new.jpg?raw=true)
 ## Follow me
 <p>
   <a href="https://www.linkedin.com/in/CloudByVenkat"><img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"  width="120" height="120"/></a>
