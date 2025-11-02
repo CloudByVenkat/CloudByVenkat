@@ -70,10 +70,6 @@ Results-driven architect with 15+ years of experience leading cloud transformati
 [![Monitoring Kubernetes with Prometheus](https://ytcards.demolab.com/?id=lWZ1_dkRsAw&title=Monitoring+Kubernetes+with+Prometheus&lang=en&timestamp=1761997310&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Monitoring Kubernetes with Prometheus")](https://www.youtube.com/watch?v=lWZ1_dkRsAw)
 [![Azure VNet-to-VNet Gateway Connection](https://ytcards.demolab.com/?id=ttdeb0QkFL4&title=Azure+VNet-to-VNet+Gateway+Connection&lang=en&timestamp=1761997293&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Azure VNet-to-VNet Gateway Connection")](https://www.youtube.com/watch?v=ttdeb0QkFL4)
 <!-- END YOUTUBE-CARDS -->
-- 17 July 2025 - Disaster Recovery: A Hands-On Demo to Azure Site Recovery - [CareerByteCode](https://youtu.be/u8Q_HPDRak8)
-- 08 August 2025 - Build Secure Multi-Cloud Networks: Azure VNet Gateway Connections - [CareerByteCode](https://youtu.be/ttdeb0QkFL4)
-- 13 Sep 2025 - Kubernetes Monitoring using Prometheus - [CareerByteCode](https://youtu.be/lWZ1_dkRsAw)
-
 ---
 
 ## Mentorship & Community
