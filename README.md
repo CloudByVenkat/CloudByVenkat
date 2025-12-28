@@ -50,17 +50,6 @@ Results-driven architect with 15+ years of experience leading cloud transformati
 - Led cross-functional teams to deliver secure, compliant infrastructure at scale.
 ---
 
-## Stats
-<!-- Stats card by anuraghazra/github-readme-stats
-     Customization guide:
-     - Hide private contributions: &count_private=true|false
-     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
-     - Show icons: &show_icons=true
-     Docs: https://github.com/anuraghazra/github-readme-stats -->
-![CloudByVenkat' GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudbyvenkat&show_icons=true&theme=gotham)
-
----
-
 ## Speaking & Webinars
 
 <!-- BEGIN YOUTUBE-CARDS -->
