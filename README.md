@@ -3,7 +3,12 @@
 
 **Azure Certified Expert (AZ-104 & AZ-305)** | **Multi-Cloud & DevOps Leader Driving Cloud Innovation & Automation** | **Mentor & Technical Leader**
 
-![image](https://github.com/CloudByVenkat/CloudByVenkat/blob/main/new.jpg?raw=true)
+<img src="https://github.com/CloudByVenkat/CloudByVenkat/blob/main/new.jpg?raw=true" 
+     alt="Venkat" 
+     width="400" 
+     height="400" 
+     align="center"
+     style="border-radius: 50%;"/>
 ## Follow me
 <p>
   <a href="https://www.linkedin.com/in/CloudByVenkat"><img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"  width="32" height="32"/></a>&nbsp;
