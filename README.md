@@ -6,11 +6,11 @@
 ![image](https://github.com/CloudByVenkat/CloudByVenkat/blob/main/new.jpg?raw=true)
 ## Follow me
 <p>
-  <a href="https://www.linkedin.com/in/CloudByVenkat"><img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"  width="120" height="120"/></a>
-  <a href="https://www.youtube.com/@CloudByVenkat"><img alt="YouTube" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/YouTube_full-color_icon_%282024%29.svg" width="120" height="120"/></a>
-  <a href="https://medium.com/@CloudByVenkat"><img alt="Medium" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg" width="120" height="120" /></a>
-   <a href="https://www.facebook.com/CloudByVenkat"><img alt="Facebook" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1200px-Facebook_f_logo_%282019%29.svg.png" width="120" height="120" /></a>
-  <a href="https://x.com/CloudByVenkat"><img alt="X" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg"  width="120" height="120"/></a>
+  <a href="https://www.linkedin.com/in/CloudByVenkat"><img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"  width="32" height="32"/></a>
+  <a href="https://www.youtube.com/@CloudByVenkat"><img alt="YouTube" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/YouTube_full-color_icon_%282024%29.svg" width="32" height="32"/></a>
+  <a href="https://medium.com/@CloudByVenkat"><img alt="Medium" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg" width="32" height="32" /></a>
+   <a href="https://www.facebook.com/CloudByVenkat"><img alt="Facebook" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1200px-Facebook_f_logo_%282019%29.svg.png" width="32" height="32" /></a>
+  <a href="https://x.com/CloudByVenkat"><img alt="X" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg"  width="32" height="32"/></a>
  
 </p>
 Results-driven architect with 15+ years of experience leading cloud transformation across Azure, AWS, and GCP. Passionate about building scalable systems, automating infrastructure, optimising cloud spend, and integrating AI into modern architectures.
@@ -49,7 +49,19 @@ Results-driven architect with 15+ years of experience leading cloud transformati
 - Implemented FinOps controls saving >35% in cloud spend.  
 - Led cross-functional teams to deliver secure, compliant infrastructure at scale.
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CloudByVenkat&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=CloudByVenkat&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CloudByVenkat&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=CloudByVenkat&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=CloudByVenkat&icon=0&color=13)](https://visitcount.itsvg.in)
 ## Speaking & Webinars
 
 <!-- BEGIN YOUTUBE-CARDS -->
